@@ -1,7 +1,7 @@
 # SAMS – Student Attention Management System
 
 SAMS is a real time focus‑monitoring tool that uses a webcam and AI models to detect attention, drowsiness, distractions, emotions, and posture.  
-It includes a chat assistant, break suggestions, screen‑zone calibration, and a modern GUI.
+It includes a chat assistant, break suggestions, screen‑zone calibration, and a lot more.
 
 ---
 
